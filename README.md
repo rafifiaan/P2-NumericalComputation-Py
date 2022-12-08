@@ -1,8 +1,8 @@
 # Practicum 2 - Numerical Computation
 
-Name           : Rafi Aliefian Putra Ramadhani        
-NRP            : 5025211234
-Kelompok       : C11 (Alya Putri Salma, Kartika Diva Asmara Gita)
+    Name           : Rafi Aliefian Putra Ramadhani        
+    NRP            : 5025211234
+    Kelompok       : C11 (Alya Putri Salma, Kartika Diva Asmara Gita)
 
 ## Source Code with Python (Py)
 
@@ -63,4 +63,5 @@ if __name__ == "__main__":
 ## Output Program :
 ![pr2](https://user-images.githubusercontent.com/91828276/206484653-35674f18-4a84-427e-8807-96b724051b9a.png)
 </br>
- - Thank you Numerical Computation - 
+
+## Thank you Numerical Computation !! 
